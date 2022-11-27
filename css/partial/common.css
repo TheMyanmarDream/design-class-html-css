@@ -1,0 +1,87 @@
+.container{
+  max-width: 1170px;
+  margin: 0 auto;
+  
+}
+.brand-color{
+  color: var(--brand-color);
+}
+.py-60{
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.title{
+  font-size: var( --title-font-size );
+  font-weight: 700;
+  margin-bottom: 4rem;
+}
+.btn{
+  display: block;
+  background-color: #333;
+  font-size: 1.8rem;
+  color: #fff;
+  padding: 1.8rem 0;
+  transition: 0.3s;
+}
+.btn:hover{
+  background-color: var(--brand-color);
+}
+/* .nav-container{
+  background-color: var(--color);
+  padding: 0 9rem;
+}
+
+li{
+  list-style-type: none;
+}
+.nav-ul{
+  color: var(--bg-color);
+  height: 40px;
+  display: flex;
+  font-size: var(--body-font-size);
+  justify-content: space-around;
+  align-items: center;
+}
+.title-container{
+  padding: 0 9rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 500px;
+}
+.title-img img {
+  height: 400px;
+  width: 100%;
+}
+.title-text {
+  width: 50%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+.first-sen{
+  color: var(--brand-color);
+  font-weight: 100;
+  font-size: 5rem;
+  font-family: var(--primary-font-family);
+}
+.first-sen span{
+  font-weight: 700;
+}
+.second-sen{
+  font-family: var(--primary-font-family);
+  color: var(--color);
+  font-weight: 100;
+  font-size: 4rem;
+}
+.second-sen span{
+  font-weight: 700;
+}
+.third-sen{
+  font-size: 2rem;
+  color: var(--color);
+  opacity: 0.8;
+}
+ */
